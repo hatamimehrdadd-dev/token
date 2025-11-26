@@ -2,11 +2,11 @@
   "name": "Emma Hatami",
   "symbol": "EMMA",
   "description": "This is a fungible EMMA token.",
-  "image": "https://raw.githubusercontent.com/hatamimehrdadd-dev/token/main/shabekhan.png"
-      "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Token Creation"
-      }
-    ]
+  "image": "https://raw.githubusercontent.com/hatamimehrdadd-dev/token/main/shabekhan.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Token Creation"
+    }
+  ]
 }
