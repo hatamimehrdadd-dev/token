@@ -2,7 +2,7 @@
   "name": "Mehrdad",
   "symbol": "MHR",
   "description": "This is a fungible SPL token.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png"
+  "image": "https://raw.githubusercontent.com/hatamimehrdadd-dev/token/main/shabekhan.png"
       "attributes": [
       {
         "trait_type": "Item",
@@ -10,3 +10,4 @@
       }
     ]
 }
+
