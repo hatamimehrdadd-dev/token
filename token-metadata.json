@@ -1,16 +1,6 @@
 {
-  "name": "MEHRDAD",
-  "symbol": "MHD",
-  "description": "This is my custom test token",
-  "image": "https://example.com/logo.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://example.com/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "name": "Mehrdad",
+  "symbol": "MHR",
+  "description": "This is a fungible SPL token.",
+  "image": "https://github.com/hatamimehrdadd-dev/token/blob/main/shabekhan.png"
 }
