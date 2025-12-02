@@ -2,7 +2,7 @@
   "name": "2Yd4 Token",
   "symbol": "2Yd4",
   "description": "This is a fungible 2Yd4 token.",
-  "image": "https://raw.githubusercontent.com/hatamimehrdadd-dev/token/main/shabekhan.png",
+  "image": "https://raw.githubusercontent.com/hatamimehrdadd-dev/token/main/2Yd4.png",
   "attributes": [
     {
       "trait_type": "Item",
